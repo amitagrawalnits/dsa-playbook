@@ -166,7 +166,8 @@
 - Right/Left view:
     - Class: `src/main/java/com/amit/cs/trees/<ClassName_RightLeftView>.java`
 - Zigzag:
-    - Class: `src/main/java/com/amit/cs/trees/<ClassName_ZigzagLevelOrder>.java`
+    - Class: `src/main/java/com/amit/cs/trees/ZigzagLevelOrderTraversal.java`
+    - Test: `src/test/java/com/amit/cs/trees/ZigzagLevelOrderTraversalTest.java`
 - Vertical order:
     - Class: `src/main/java/com/amit/cs/trees/<ClassName_VerticalOrder>.java`
 - Distance-K:
